@@ -1,12 +1,12 @@
 ## olá! eu sou wallacy oliveira
 
-- 🔭 Atualmente estou trabalhando em: Projetos acadêmicos e pessoais de programação
-- 🌱 estou aprendendo: Python, SQL, lógica de programação, HTML E CSS
-- 👯 Procuro colaborar em: Projetos open source, iniciativas de análise de dados e desenvolvimento web
-- 🤔 Busco ajuda com: Boas práticas de programação e estruturação de projetos
+-  Atualmente estou trabalhando em: Projetos acadêmicos e pessoais de programação
+-  estou aprendendo: Python, SQL, lógica de programação, HTML E CSS
+-  Procuro colaborar em: Projetos open source, iniciativas de análise de dados e desenvolvimento web
+-  Busco ajuda com: Boas práticas de programação e estruturação de projetos
 - 📫 Como entrar em contato comigo: | E-mail: oliveirawallacy222@gmail.com
-- ⚡ Curiosidade: Sou apaixonado por aprender coisas novas e transformar ideias em soluções práticas
-- 😄 Pronomes: ele/dele
+-  Curiosidade: Sou apaixonado por aprender coisas novas e transformar ideias em soluções práticas
+-  Pronomes: ele/dele
 
 ## 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
