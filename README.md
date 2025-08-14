@@ -3,8 +3,7 @@
 - 🔭 Atualmente estou trabalhando em: Projetos acadêmicos e pessoais de programação
 - 🌱 estou aprendendo: Python, SQL, lógica de programação, HTML E CSS
 - 👯 Procuro colaborar em: Projetos open source, iniciativas de análise de dados e desenvolvimento web
-- 🤔 Procuro ajuda com: Boas práticas de programação e estruturação de projetos
-- 💬 Ask me about ...
+- 🤔 Busco ajuda com: Boas práticas de programação e estruturação de projetos
 - 📫 Como entrar em contato comigo: | E-mail: oliveirawallacy222@gmail.com
 - ⚡ Curiosidade: Sou apaixonado por aprender coisas novas e transformar ideias em soluções práticas
 - 😄 Pronomes: ele/dele
